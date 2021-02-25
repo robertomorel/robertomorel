@@ -34,9 +34,9 @@
 </h4>
 
 <p align="center">
-  🔭 I’m currently working on a fullstack solutions for <a href="http://atlantico.com.br/">Instituto Atlântico</a></br>
+  🔭 I’m currently working on fullstack solutions for <a href="http://atlantico.com.br/">Instituto Atlântico</a></br>
   🌱 I’m currently learning full cycle development with devops concepts and pursuing a postgraduate degree in Data Science</br>
-  👯 I’m looking to collaborate to the community by sharing some of the knowledge I constantly reach</br>
+  🤔 I’m looking to collaborate to the community by sharing some of the knowledge I constantly reach</br>
   💬 Ask me about career, job application and even personal matter <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">here</a></br>
   ⚡ Fun fact: I’m a geek. Love superheroes and I'm black belt of Karate
 </P>  
