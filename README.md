@@ -91,7 +91,7 @@
 
 > _**Please Note that**_ *these languages above are not the only ones I work with, these are just the most used languages for my public repositories you'll find here on GitHub* ;)
 
-## Last but not list
+## Last but not least
 
 ### Projects basic division
 
