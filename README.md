@@ -13,9 +13,9 @@
   Hello, partners and recruiters 👋👋👋👋
 </h2>
 
-<h3 align="center">
+<h4 align="center">
   “More than implementing code, software development is about the smartness of solving problems.”
-</h3>
+</h4>
 
 <b>
   <p align="center">
