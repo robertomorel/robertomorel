@@ -13,6 +13,10 @@
   Hello, partners and recruiters 👋👋👋👋
 </h2>
 
+<h4 align="center">
+  “More than implementing code, software development is about the smartness of solving problems.”
+</h4>
+
 <b>
   <p align="center">
     You are certainly most ✨ welcome ✨ here!
@@ -21,12 +25,13 @@
 </b>
 
 <p align="center">
-  Passionate by software and game development and data science. I´m in constant technical evolution. Always open to discussions and team work.
-  I adapt myself very easily to organizational environments and organizational cultures. Results that proves a fast learning of both technology and business.
-  Skill in people management and teamwork.
-  I have this continuous desire for technical improvement and horizontal and vertical knowledge.
-  Bring on my back more than 10 amazing years of experience of software development, which includes frontend, backend and even side projects on game development.
-  Most important think about my professional career: <b>I SIMPLY LOVE WHAT I DO</b>. I always get excited by opportunities to learn new things and work on new challenges.
+  Passionate about software and game development and data science.
+  I'm in constant technical evolution. Always open to discussions and team work. 
+  I adapt myself very easily to organizational environments and organizational cultures. Results that proves a fast learning on both technology and business. 
+  Skills in people management and teamwork. 
+  I have this continuous desire for technical improvement and bring on my back more than 10 amazing years of experience of software development, which includes frontend, backend, full cycle and even side projects on game development. 
+  Most important thing about my professional career: <b>I SIMPLY LOVE WHAT I DO</b>. 
+  I always get excited by opportunities to learn new things and work on new challenges. 
 </p>
 
 <h4 align="center">
