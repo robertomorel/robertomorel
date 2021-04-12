@@ -104,7 +104,7 @@
 |:----------------:|:-----------------------------:|
 | **Frontend**     | tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes |
 | **Mobile**       | GoRestaurant_Mobile, GoBarber_mobile, GoMarketplace_Mobile, Repository_Mobile |
-| **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api |
+| **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc |
 | **Fullstack**    | Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack |
 | **Devops**       | bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker |
 | **Data Science** | healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python |
