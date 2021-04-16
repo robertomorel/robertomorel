@@ -102,7 +102,7 @@
 
 |     **Type**     |         **Projects**          |
 |:----------------:|:-----------------------------:|
-| **Frontend**     | tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes |
+| **Frontend**     | tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes, ig-news |
 | **Mobile**       | GoRestaurant_Mobile, GoBarber_mobile, GoMarketplace_Mobile, Repository_Mobile |
 | **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc |
 | **Fullstack**    | Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack |
