@@ -107,7 +107,7 @@
 | **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc | degreecertificate
 | **Fullstack**    | Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack |
 | **Devops**       | bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker |
-| **Data Science** | healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python | data-mining-and-predictive-analysis-with-python
+| **Data Science** | healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python | data-mining-and-predictive-analysis-with-python 
 | **Game Dev**     | FlappyBird3D, FlappyBird, IsometricGame, GalaxyShooterCo-opModeMobile, GalaxyShooterCo-opMode, GalaxyShooter, FelpudoLenhador, FelpudoLenhadorMobile, Dcuk-Hunt-AR, Dcuk-Hunt, CarWithPhysics, AventuraFelpudoMobileAR, CandyCrushLike, AventuraFelpudoMobile, AventuraFelpudo, AngryFelpudoAR, BirdHunt, NewAdventureBird, PushingBoxesGame |
 
 <hr>
