@@ -39,7 +39,7 @@
 </h4>
 
 <p align="center">
-  🔭 I’m currently working on fullstack solutions for <a href="https://www.oowlish.com/">Instituto Atlântico</a></br>
+  🔭 I’m currently working on fullstack solutions for <a href="https://www.oowlish.com/">Oowlish</a></br>
   🌱 I’m currently learning full cycle development with devops concepts and pursuing a postgraduate degree in Data Science</br>
   🤔 I’m looking to collaborate to the community by sharing some of the knowledge I constantly reach</br>
   💬 Ask me about career, job application and even personal matter <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">here</a></br>
