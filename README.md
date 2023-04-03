@@ -39,7 +39,7 @@
 </h4>
 
 <p align="center">
-  🔭 I’m currently working on fullstack solutions for <a href="http://atlantico.com.br/">Instituto Atlântico</a></br>
+  🔭 I’m currently working on fullstack solutions for <a href="https://www.oowlish.com/">Instituto Atlântico</a></br>
   🌱 I’m currently learning full cycle development with devops concepts and pursuing a postgraduate degree in Data Science</br>
   🤔 I’m looking to collaborate to the community by sharing some of the knowledge I constantly reach</br>
   💬 Ask me about career, job application and even personal matter <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">here</a></br>
@@ -104,9 +104,9 @@
 |:----------------:|:-----------------------------:|
 | **Frontend**     | tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes, ig-news, dash-go, auto_fix_with_husky_lint_staged, github_discovery |
 | **Mobile**       | GoRestaurant_Mobile, GoBarber_mobile, GoMarketplace_Mobile, Repository_Mobile, im-here |
-| **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc, degreecertificate, serverless-node-aws-lambda |
+| **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc, degreecertificate, serverless-node-aws-lambda, bets-app |
 | **Fullstack**    | Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack, reactjs-next-auth-jwt, sweet-home-fullstack-project |
-| **Devops**       | bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker, consul_agent_example, gokafka, Keycloak, go_lang_hello_world, K8s_kubernetes_basic |
+| **Devops**       | bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker, consul_agent_example, gokafka, Keycloak, go_lang_hello_world, K8s_kubernetes_basic, kong-kubernetes-automation | 
 | **Data Science** | healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python, data-mining-and-predictive-analysis-with-python, machine_learning_with_python, ci_cd_go |
 | **Game Dev**     | FlappyBird3D, FlappyBird, IsometricGame, GalaxyShooterCo-opModeMobile, GalaxyShooterCo-opMode, GalaxyShooter, FelpudoLenhador, FelpudoLenhadorMobile, Dcuk-Hunt-AR, Dcuk-Hunt, CarWithPhysics, AventuraFelpudoMobileAR, CandyCrushLike, AventuraFelpudoMobile, AventuraFelpudo, AngryFelpudoAR, BirdHunt, NewAdventureBird, PushingBoxesGame |
 
