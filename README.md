@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<a href="https://www.facebook.com/techfortaleza"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/techfortaleza"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-color-icon.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/roberto.morel/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/robertomorel/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
