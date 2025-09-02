@@ -1,125 +1,153 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/robertomorel/assets/master/icon.jpeg" alt="Morel, Roberto's header" width="400"/>
-</div>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/robertomorel/assets/master/icon.jpeg" alt="Roberto Morel — profile header" width="400" />
+</p>
 
 <p align="center">
-<a href="https://www.facebook.com/techfortaleza"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-square-color-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/roberto.morel/"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/roberto-morel-6b9065193/"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/robertomorel/"><img height="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/techfortaleza">
+    <img height="28" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/roberto.morel/">
+    <img height="28" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">
+    <img height="28" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/robertomorel/">
+    <img height="28" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h2 align="center">
-  Hello, partners and recruiters 👋👋👋👋
-</h2>
-
-<h4 align="center">
-  “More than implementing code, software development is about the smartness of solving problems.”
-</h4>
-
-<b>
-  <p align="center">
-    You are certainly most ✨ welcome ✨ here!
-    First of all, let me tell you a little bit about myself.
-  </p>
-</b>
+<h1 align="center">Hi, I’m Roberto Morel</h1>
+<h3 align="center">Full-Stack Engineer • Tech Lead • Product-minded Problem Solver</h3>
 
 <p align="center">
-  Passionate about software and game development and data science.
-  I'm in constant technical evolution. Always open to discussions and team work. 
-  I adapt myself very easily to organizational environments and organizational cultures. Results that proves a fast learning on both technology and business. 
-  Skills in people management and teamwork. 
-  I have this continuous desire for technical improvement and bring on my back more than 10 amazing years of experience of software development, which includes frontend, backend, full cycle and even side projects on game development. 
-  Most important thing about my professional career: <b>I SIMPLY LOVE WHAT I DO</b>. 
-  I always get excited by opportunities to learn new things and work on new challenges. 
+  I build end-to-end software — from discovery and architecture to DX, delivery, and observability. 
+  I care about maintainable systems, clear communication, and measurable impact.
 </p>
 
-<h4 align="center">
-  Oh, wait! There´s more...
-</h4>
+<hr />
 
-<p align="center">
-  🔭 I’m currently working on fullstack solutions for <a href="https://www.oowlish.com/">Oowlish</a></br>
-  🌱 I’m currently learning full cycle development with devops concepts and pursuing a postgraduate degree in Data Science</br>
-  🤔 I’m looking to collaborate to the community by sharing some of the knowledge I constantly reach</br>
-  💬 Ask me about career, job application and even personal matter <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">here</a></br>
-  ⚡ Fun fact: I’m a geek. Love superheroes and I'm black belt of Karate
-</P>  
+## About me
 
-<hr>
+- 13+ years across frontend, backend, and DevOps (full-cycle).
+- Ship production apps with **React / React Native, Angular, Node/NestJS, .NET**, and **PostgreSQL/SQL Server** — usually on **AWS**.
+- Comfortable leading teams, mentoring, and running interviews.
+- I love learning, teaching, and turning complex requirements into clear roadmaps.
 
-## Techs
+> “More than implementing code, software development is the smartness of solving problems.”
 
-### What´s you´ll find here? 
+## Tech stack
 
-<p float="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
-</p>
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=fff)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=fff)
 
-### Other
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
 
-<p float="left">
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
-  <img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
+**Backend & Data**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-404d59?logo=express&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
 
-## My stats
+**DevOps & Tooling**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff)
+![Shell](https://img.shields.io/badge/Shell-121011?logo=gnubash&logoColor=fff)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=fff)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
+![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertomorel&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+## What I’m up to
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomorel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Building full-stack products and improving developer experience.
+- Exploring data, analytics, and AI-assisted flows.
+- Contributing to the community by sharing what I learn.
 
-> _**Please Note that**_ *these languages above are not the only ones I work with, these are just the most used languages for my public repositories you'll find here on GitHub* ;)
+## Contact
 
-## Last but not least
-
-### Projects basic division
-
-|     **Type**     |         **Projects**          |
-|:----------------:|:-----------------------------:|
-| **Frontend**     | tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes, ig-news, dash-go, auto_fix_with_husky_lint_staged, github_discovery |
-| **Mobile**       | GoRestaurant_Mobile, GoBarber_mobile, GoMarketplace_Mobile, Repository_Mobile, im-here |
-| **Backend**      | tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc, degreecertificate, serverless-node-aws-lambda, bets-app |
-| **Fullstack**    | Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack, reactjs-next-auth-jwt, sweet-home-fullstack-project |
-| **Devops**       | bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker, consul_agent_example, gokafka, Keycloak, go_lang_hello_world, K8s_kubernetes_basic, kong-kubernetes-automation | 
-| **Data Science** | healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python, data-mining-and-predictive-analysis-with-python, machine_learning_with_python, ci_cd_go |
-| **Game Dev**     | FlappyBird3D, FlappyBird, IsometricGame, GalaxyShooterCo-opModeMobile, GalaxyShooterCo-opMode, GalaxyShooter, FelpudoLenhador, FelpudoLenhadorMobile, Dcuk-Hunt-AR, Dcuk-Hunt, CarWithPhysics, AventuraFelpudoMobileAR, CandyCrushLike, AventuraFelpudoMobile, AventuraFelpudo, AngryFelpudoAR, BirdHunt, NewAdventureBird, PushingBoxesGame |
-
-<hr>
-</br>
-
-<b>
-  <p align="center">
-    ✍🏻Keep learning guys✍🏻
-  </p>
-  <p align="center">
-    ...and feel free to comment or collaborate in any of these projects down here 👇🏽 
-  </p>
-</b>
+- DM me on **LinkedIn**: <a href="https://www.linkedin.com/in/roberto-morel-6b9065193/">/roberto-morel-6b9065193</a>  
+- Or follow along on **GitHub**: <a href="https://github.com/robertomorel">@robertomorel</a>
 
 
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertomorel&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomorel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> _Note_: the language chart reflects **public** repos only.
+
+---
+
+## Selected Projects (by area)
+
+<details>
+  <summary><b>Frontend</b></summary>
+
+tasks-frontend, tasks-storage, minecamp, calculator-mobile-prototype, GoBarber_frontend, GoRestaurant_Frontend, github-clone, GoFinance_Frontend, Repository_Frontend, reduxreduxsaga, Entry-Control-Frontend, redux_projects, NextJSExamples, micro-frontend-single-spa-aplication, taskList, react-environment, calendar-for-scheduling, dtmoney, watch-me, e-shoes, ig-news, dash-go, auto_fix_with_husky_lint_staged, github_discovery
+</details>
+
+<details>
+  <summary><b>Mobile</b></summary>
+
+GoRestaurant_Mobile, GoBarber_mobile, GoMarketplace_Mobile, Repository_Mobile, im-here
+</details>
+
+<details>
+  <summary><b>Backend</b></summary>
+
+tasks-backend, Repository_Backend, Entry-Control-Backend, GoBarber_backend, E_Commerce_Backend, GoFinance_Backend, GoFinance_Backend_Old, fin-api, go-lang-grpc, degreecertificate, serverless-node-aws-lambda, bets-app
+</details>
+
+<details>
+  <summary><b>Fullstack</b></summary>
+
+Proffy, EColeta, semana_omnistack_9, semana_omnistack_8, NextLevelWeek, movies_research, webpack, reactjs-next-auth-jwt, sweet-home-fullstack-project
+</details>
+
+<details>
+  <summary><b>DevOps</b></summary>
+
+bucketS3AWS, devopsnotesandprojects, cloud-build-docker-compose, project-docker-go, devops-docker, consul_agent_example, gokafka, Keycloak, go_lang_hello_world, K8s_kubernetes_basic, kong-kubernetes-automation
+</details>
+
+<details>
+  <summary><b>Data Science</b></summary>
+
+healthcare-prediction-analysis, python-data-science, r-data-science, etl_files, streaming-data, real-time-streaming-data-processing, map-reduce-python, data-mining-and-predictive-analysis-with-python, machine_learning_with_python, ci_cd_go
+</details>
+
+<details>
+  <summary><b>Game Dev</b></summary>
+
+FlappyBird3D, FlappyBird, IsometricGame, GalaxyShooterCo-opModeMobile, GalaxyShooterCo-opMode, GalaxyShooter, FelpudoLenhador, FelpudoLenhadorMobile, Dcuk-Hunt-AR, Dcuk-Hunt, CarWithPhysics, AventuraFelpudoMobileAR, CandyCrushLike, AventuraFelpudoMobile, AventuraFelpudo, AngryFelpudoAR, BirdHunt, NewAdventureBird, PushingBoxesGame
+</details>
+
+---
+
+<p align="center"><i>Keep learning. Keep shipping. Open to collaboration and good challenges.</i></p>
